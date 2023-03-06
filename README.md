@@ -1,4 +1,4 @@
-Este arquivo foi criado local com os seguintes comando:
+Este arquivo foi criado local com os seguintes comandos:
 
 git init (para criar o repositorio local)
 
